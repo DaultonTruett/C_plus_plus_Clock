@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# C++_ Clock
 
 # Summarize the project and what problem it was solving.
     This project displays a clock in both a 12 hour and 24 hour format. The program is designed to allow a user to enter their current time and then modify the clock by adding 
