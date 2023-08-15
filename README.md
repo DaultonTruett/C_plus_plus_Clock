@@ -1,4 +1,4 @@
-# Project for SNHU CS-205: Programming Languages
+# SNHU CS-205: Programming Languages
 
 
 # Summarize the project and what problem it was solving.
